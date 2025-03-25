@@ -1,4 +1,4 @@
-1. Create API to get、post、delete weather data using demo weather data defined in weatherRouter.js
+1. Create API to get/post/delete weather data using demo weather data defined in weatherRouter.js
 
 2. commands
 npm init          create package.json
